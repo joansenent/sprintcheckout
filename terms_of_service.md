@@ -5,7 +5,7 @@ Sprintgrowth.com Ltd, the foundation registered in London, United Kingdom, under
 ### The roles in the process
 
 - Sprintcheckout acts as a payment application for ecommerce platforms that enables Merchants to offer customers to pay with Layer 2 ZK Rollups like zkSync.
-- Customers pay with ETH end ERC-20 tokens through skSync Checkout interface.
+- Customers pay with ETH end ERC-20 tokens through skSync Checkout application.
 
 ### Sprintcheckout Payment Application – service description
 
@@ -26,6 +26,7 @@ zkSync requires a one time Account activation fee;
 ### Refunds
 
 - The merchant is responsible in case of refund to execute a transfer through zkSync Wallet of the full amount of the order to the address of the customer, adding up any zkSync fees and Sprintcheckout fees.
+- 
 
 ### Security
 
