@@ -14,7 +14,7 @@ Sprintgrowth.com Ltd, the foundation registered in London, United Kingdom, under
 - Sprintcheckout calculates the exchange rate in realtime through Coingecko API, no commission is added.
 - Sprintcheckout calculates the fee zkSync will require at the moment of the purchase, and also adds the Sprintecheckout fee, and deducts them from the merchant payment.
 - Customer is redirected to the zkSync Checkout application where the payment can be executed.
-- The merchant receives the funds on the Ethereum wallet address specified on the Sprintechkout application set up. 
+- The merchant receives the funds on the Ethereum wallet address specified on the Sprintcheckout application set up. 
 
 ### Fees and Expenses
 
@@ -26,13 +26,12 @@ zkSync requires a one time Account activation fee;
 ### Refunds
 
 - The merchant is responsible in case of refund to execute a transfer through zkSync Wallet of the full amount of the order to the address of the customer, adding up any zkSync fees and Sprintcheckout fees.
-- 
 
 ### Security
 
 - We use industry-standard encryption methods to ensure the security of your data in accordance with applicable laws and regulations. We take reasonable precautions to ensure that your data is not lost, misused, accessed, disclosed, altered or destroyed.
 - You are solely responsible for safekeeping your wallet and private information, including your private key, and you recognise and agree to use zkSync Checkout Application at your own risk.
-- Sprintcheckoout Application will never ask you to provide your Ethereum private keys.
+- Sprintcheckout Application will never ask you to provide your Ethereum private keys.
 - You should ensure that your computer is free from and shall not introduce into the Sprincheckout Application any malicious software. Prior to using our application, you are required to install up-to-date, industry-standard and comprehensive anti-virus software to seek to prevent the introduction of any malicious software into Sprintcheckout Application.
 
 ### Complaints
