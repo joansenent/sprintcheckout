@@ -557,6 +557,26 @@ p b {
 	fill: #ffffff;
 }
 
+.footer a {
+	font-size: 20px;
+	line-height: 28px;
+	margin-bottom: 36px;
+	text-align: center;
+	color: #5A7184;
+	font-weight: 550;
+	font-family: 'Open Sans', sans-serif;
+}
+
+div.termsprivacy {
+	height: 5em;
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+div.termsprivacy a {
+	margin: 2%;
+}
 
 /*==================================================================*/
 /*========== New Class Add End ==========*/
