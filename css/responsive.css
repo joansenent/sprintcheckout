@@ -234,6 +234,12 @@
         margin-bottom: 25px;
     }
 
+    .footer a {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 25px;
+    }
+
     .footer ul li {
         margin-left: 8px;
     }
