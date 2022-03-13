@@ -1,11 +1,11 @@
-### Terms of Service
+# Terms of Service
 
 Sprintgrowth.com Ltd, the foundation registered in London, United Kingdom, under the company number: 12366931 ("Sprintgrowth", “we,” “our,” or “us”) provides its services through its website located at under sprintcheckout.com and their subdomains. Before using our Services, please read the Terms of Service (the “Terms” or the “Agreement”) carefully, along with any other policies or notices on Sprintcheckout website, and our Privacy Policy. Together, these materials contain terms, rules, and guidelines related to your use of Sprintcheckout.
 
 ### The roles in the process
 
 - Sprintcheckout acts as a payment application for ecommerce platforms that enables Merchants to offer customers to pay with Layer 2 ZK Rollups like zkSync.
-- Customers pay with ETH end ERC-20 tokens through skSync Checkout application.
+- Customers pay with ETH end ERC-20 tokens through zkSync Checkout application.
 
 ### Sprintcheckout Payment Application – service description
 
