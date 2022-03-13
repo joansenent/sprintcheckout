@@ -6,11 +6,8 @@ Welcome to Sprintchekout.com Privacy Policy. This privacy policy will explain ho
 - How do we collect your data?
 - How will we use your data?
 - How do we store your data?
-- Marketing
-- What are your data protection rights?
 - What are cookies?
 - How do we use cookies?
-- What types of cookies do we use?
 - How to manage your cookies
 - Privacy policies of other websites
 - Changes to our privacy policy
@@ -18,6 +15,7 @@ Welcome to Sprintchekout.com Privacy Policy. This privacy policy will explain ho
 - How to contact the appropriate authorities
 
 ### What data do we collect? 
+
 Sprintcheckout collects the following data:
 • Personal identification information (Name, email address, phone number, billing address. This information will be asked in our checkout page. This information might be used to provide status updates of their orders, enhancing their shopping experience and offering relevant products/services.
 • We occasionally also send out newsletters to our subscribers. Subscribers can withdraw their consent request and the removal of all information held by clicking the “Unsubscribe” link in our emails or by contacting us at support@sprintcheckout.com
@@ -36,6 +34,7 @@ We will share your data only with the following companies whose platforms we use
 Sprintcheckout does not store any personal information.
 Sprintcheckout only stores necessary data to process payments through zkSynck Checkout, such us the merchant public key, no personal data is needed on this process.
 
+### What are cookies?
 
 Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology
 For further information, visit allaboutcookies.org.
@@ -56,7 +55,7 @@ You can set your browser not to accept cookies, and the above website tells you 
 The Sprincheckout website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 
 ### Changes to our privacy policy
-Sprintcheckout keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 04 February 2020.
+Sprintcheckout keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 013 March 2022.
 
 ### How to contact us?
 If you have any questions about Sprintcheckout’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
