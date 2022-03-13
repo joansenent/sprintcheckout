@@ -17,7 +17,7 @@ Welcome to Sprintchekout.com Privacy Policy. This privacy policy will explain ho
 - How to contact us
 - How to contact the appropriate authorities
 
-### What data do we collect?
+### What data do we collect? 
 Sprintcheckout collects the following data:
 • Personal identification information (Name, email address, phone number, billing address. This information will be asked in our checkout page. This information might be used to provide status updates of their orders, enhancing their shopping experience and offering relevant products/services.
 • We occasionally also send out newsletters to our subscribers. Subscribers can withdraw their consent request and the removal of all information held by clicking the “Unsubscribe” link in our emails or by contacting us at support@sprintcheckout.com
